@@ -1,2 +1,2 @@
-radius=float(input())
-print(3.14*radius**2)
+r=int(input())
+print("%.2f"%(3.14*r*r))
